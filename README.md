@@ -8,7 +8,7 @@ Landing page de práctica para un servicio ficticio de suscripción de plantas, 
 - Diseño responsive
 - Deploy en producción con Vercel
 
-🔗 **Demo:** https://landing-page-dg4ts71vg-landing-pages2.vercel.app
+🔗 **Demo:** https://landing-page-b70pfq4sw-landing-pages2.vercel.app
 
 🔗 **Repositorio:** https://github.com/AndresRober/landing-page-ejemplo
 
